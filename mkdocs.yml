@@ -1,0 +1,19 @@
+site_name: More MkDocs YouTube Tutorial
+theme:
+  name: mkdocs
+  font: 
+    test: Times New Roman
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: en
+
+
+
